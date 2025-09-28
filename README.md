@@ -3,4 +3,3 @@ Aqui estarei colocando todas as resoluções dos desafios que eu fizer no Beecro
 ## As linguagens que estarei utilizando serão:
 * C
 * Java
-* Kotlin
